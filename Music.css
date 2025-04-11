@@ -1,0 +1,6 @@
+
+p {
+    -ms-flex-align: center;
+    flex-wrap: wrap;
+    flex-flow: column;
+}
